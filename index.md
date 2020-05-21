@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Bonita Springs
-tags: TBD
-region: Southwest Florida
+tags: bonita springs
+region: United States
 
 ---
 
