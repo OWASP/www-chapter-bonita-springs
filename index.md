@@ -11,7 +11,7 @@ region: United States
 Welcome to the OWASP Bonita Springs chapter.  This chapter intends to provide coverage to Southwest Florida for all things OWASP-related and to raise awareness of web application, api, and mobile app security in the community along with providing relevant discussion on privacy and compliance issues. 
 
 ## Local News
-Our next meeting is scheduled for July 9, and will be virtual only due to the current COVID-19 situation. We will be co-meeting with SWFL Coders this month! Please see our Meetup page for details on how to join the virtal meeting. We will restart physical meetings as soon as possible and will continue virtual meetings until the COVID-19 threat is reduced. Please keep an eye on this space and our Meetup page. Our meetings will be held at Two39 Work in Bonita Springs, FL at 6:30PM-8:30PM and are open to the public. Watch this page and Meetup for additional meeting announcements and event details. 
+Our next meeting is scheduled for August 4, and will be virtual only due to the current COVID-19 situation. We will be co-meeting with SWFL Coders this month! Please see our Meetup page for details on how to join the virtal meeting. We will restart physical meetings as soon as possible and will continue virtual meetings until the COVID-19 threat is reduced. Please keep an eye on this space and our Meetup page. Our meetings are open to the public. Watch this page and Meetup for additional meeting announcements and event details. 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
