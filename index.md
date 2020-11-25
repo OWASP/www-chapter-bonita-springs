@@ -3,9 +3,9 @@
 layout: col-sidebar
 title: OWASP Bonita Springs
 tags: bonita springs
-region: United States
+region: North America
 meetup-group: OWASP-Bonita-Springs-Chapter
-country: USA
+country: United States
 postal-code: 34133
 
 ---
