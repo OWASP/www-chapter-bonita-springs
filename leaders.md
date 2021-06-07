@@ -1,3 +1,3 @@
 ### Leaders
 * [Charles Long](mailto:charles.long@owasp.org)
-* [Stephan Schonberg]
+* Stephan Schonberg
