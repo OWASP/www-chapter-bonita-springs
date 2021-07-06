@@ -14,7 +14,7 @@ postal-code: 34133
 Welcome to the OWASP Bonita Springs chapter.  This chapter intends to provide coverage to Southwest Florida in the greater Naples-Fort Myers area for all things OWASP-related and to raise awareness of web application, api, and mobile app security in the community along with providing relevant discussion on privacy and compliance issues. 
 
 ## Local News
-Due to potential impact from Tropical Storm/Hurricane Elsa, we have made the decision to reschedule our July 6 meeting to August 8, 6:30PM Eastern time.  We apologize for any inconvenience this may cause and look forward to seeing you in August. Please see our Meetup page for details on how to join the virtal meeting. We will restart physical meetings as soon as possible and will continue virtual meetings until the COVID-19 threat is reduced. Please keep an eye on this space and our Meetup page. Our meetings are open to the public. Watch this page and Meetup for additional meeting announcements and event details. 
+Due to potential impact from Tropical Storm/Hurricane Elsa, we have made the decision to reschedule our July 6 meeting to August 3, 6:30PM Eastern time.  We apologize for any inconvenience this may cause and look forward to seeing you in August. Please see our Meetup page for details on how to join the virtal meeting. We will restart physical meetings as soon as possible and will continue virtual meetings until the COVID-19 threat is reduced. Please keep an eye on this space and our Meetup page. Our meetings are open to the public. Watch this page and Meetup for additional meeting announcements and event details. 
 
 ## Upcoming Meeting
 
