@@ -14,7 +14,7 @@ postal-code: 34133
 Welcome to the OWASP Bonita Springs chapter.  This chapter intends to provide coverage to Southwest Florida in the greater Naples-Fort Myers area for all things OWASP-related and to raise awareness of web application, api, and mobile app security in the community along with providing relevant discussion on privacy and compliance issues. 
 
 ## Local News
-We are cohosting a meetup with SWFL Coders this Thursday, May 11, 2022 and will be meeting physically and virtually. Please see our Meetup page for details on how to join the virtual meeting or directions to the physical meeting location. The topic of this meetup is a repeat of our April 5, 2022 meeting presentation so if you missed the April meeting come on out and join us to learn more about software bill of materials! Our meetings are open to the public. 
+We are cohosting a meetup with SWFL Coders this Thursday, May 12, 2022 and will be meeting physically and virtually. Please see our Meetup page for details on how to join the virtual meeting or directions to the physical meeting location. The topic of this meetup is a repeat of our April 5, 2022 meeting presentation so if you missed the April meeting come on out and join us to learn more about software bill of materials! Our meetings are open to the public. 
 
 Our next regular chapter meeting will be on July 5, 2022 at 6:30PM and will be virtual only. Watch this page and Meetup for additional meeting announcements and event details. 
 
