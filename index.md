@@ -14,14 +14,14 @@ postal-code: 34133
 Welcome to the OWASP Bonita Springs chapter.  This chapter intends to provide coverage to Southwest Florida in the greater Naples-Fort Myers area for all things OWASP-related and to raise awareness of web application, api, and mobile app security in the community along with providing relevant discussion on privacy and compliance issues. 
 
 ## Local News
-Our next meetup will be Tuesday, January 3, 2023 and will be virtual. Please see our [Meetup](https://www.meetup.com/owasp-bonita-springs-chapter/) page for details on how to join the virtual meeting. The topic of this meetup is to be determined! Our meetings are open to the public. 
+Our next meetup will be Tuesday, April 4, 2023 and will be virtual. Please see our [Meetup](https://www.meetup.com/owasp-bonita-springs-chapter/) page for details on how to join the virtual meeting. The topic of this meetup is Zed Attack Proxy! Our meetings are open to the public. 
 
 ## Upcoming Meeting
 
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
