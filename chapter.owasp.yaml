@@ -1,0 +1,30 @@
+community:
+  - name: chapter-bonitasprings
+    platform: slack
+    url: https://owasp.slack.com/archives/CTRF4JC2J
+    description: Bonita Springs, FL events and discussions
+leaders:
+  - name: Charles Long
+    email: charles.long@owasp.org
+    github: cmlong
+  - name: Crystal Wernicke
+    email: crystal.wernicke@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Florida
+  city: Bonita Springs
+  postal_code: '34133'
+  latitude: 26.339806
+  longitude: -81.7786972
+meetup_group: OWASP-Bonita-Springs-Chapter
+name: OWASP Bonita Springs
+repositories:
+  - name: www-chapter-bonita-springs
+    url: https://github.com/OWASP/www-chapter-bonita-springs
+    description: OWASP Foundation Web Repository
+tags:
+  - bonita
+  - springs
+  - custom-tag-1
+website: https://owasp.org/www-chapter-bonita-springs
